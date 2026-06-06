@@ -6,14 +6,14 @@ Completed an end-to-end SQL Data Analysis project on Pizza Sales data. This proj
 
 🔹 ⭐ Skills Used :
 
-Problem Solving
-SQL (Basic to Advanced)
-Joins
-Aggregate Functions
-Subqueries
-CTEs
-Window Functions
-Data Analysis
+Problem Solving,
+SQL (Basic to Advanced),
+Joins,
+Aggregate Functions,
+Subqueries,
+CTEs,
+Window Functions,
+Data Analysis,
 Business Insights Generation
  
 🔹 Platform :- PostgreSQL (PSQL)
